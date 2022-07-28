@@ -350,15 +350,15 @@ line-break: 26px;
     padding-left: 111px;
 }
 .pra li ul {
-  color: #fcfc;
+   color: #fcfc;
   padding-bottom: 10px;
-  margin:  10px; ;
+  margin:  5px; ;
   background-color: #f9004d;
     color: white;
     text-decoration: none;
     border: 2px solid transparent;
-    font-weight:bold ;
+    
    
     border-radius: 30px;
-    
+  
 }
